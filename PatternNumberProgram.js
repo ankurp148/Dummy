@@ -1,5 +1,5 @@
 console.log("------------------1-----------------");
-var n = 5;
+var n = 6;
 
 for (let i = 1; i <= n; i++) {
     for (let j = 1; j <= n; j++) {
